@@ -37,4 +37,7 @@ public class BMICalculator {
 		return Math.round(bmi * 100) / 100.0;
 	}
 
+
+
+
 }
